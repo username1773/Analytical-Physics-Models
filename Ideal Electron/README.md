@@ -27,9 +27,23 @@ From the simulations:
 
 ## Notes
 
-- The simulations are based on idealized assumptions for electron motion.  
+- The simulations are based on idealized assumptions for electron motion.
+ 
 ---
+## Files and Descriptions
+
+- `2elec3d.py` – Simulates trajectories of two electrons in 3D space.  
+- `3dhist.py` – Creates 3D histograms of electron positions after multiple random walks in 2D.  
+- `3dwalk.py` – Simulates a single 3D random walk of an electron.  
+- `Histogram.py` – Generates histograms of electron positions in 1D.  
+- `2ehistogram.py` – Generates histograms of collison frequency for two electrons.  
+- `2electron.py` – Simulates random walks of two electrons in 1D.  
+- `3dmean.py` – Calculates mean and mean-squared displacement for 3D walks.  
+- `means.py` – Calculates mean and mean-squared displacement for 1D walks.  
+- `Walkplot.py` – Plots trajectories of random walks in 1D.  
+- `README.md` – Documentation for this folder.
 
 ## Contributing
 
 Additional simulations, improved analysis, or visualization enhancements are welcome. Please maintain consistency and document any new additions.
+
